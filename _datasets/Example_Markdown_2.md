@@ -1,7 +1,3 @@
-
-
-
-  
 ---
 schema: default2
 title: rtl
