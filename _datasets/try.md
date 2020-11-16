@@ -1,9 +1,6 @@
-
-r
-=
 ---  
 schema: test  
-title: test  
+title: test123  
 organization: Sample Department  
 notes:   
 resources:  
