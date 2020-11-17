@@ -9,7 +9,7 @@ resources:
     format:parquet  
 license: None  
 category:
- - Education  
+  - Education  
 maintainer: User  
 maintainer_email: UserMail  
 ---
