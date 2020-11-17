@@ -6,7 +6,7 @@ notes: Used in 1 lineage(s)
 resources:  
   - name: Customer_infotable 
     url: abfs://system/Customer_infotable 
-    format :parquet  
+    format : parquet  
 license: None  
 category:
   - Education  
