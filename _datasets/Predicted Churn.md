@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Predicted Churn,Predicted Churn,Predicted Churn  
 title: Predicted Churn  

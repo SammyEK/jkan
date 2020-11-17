@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: New_customers_50+_view  
 title: New_customers_50+_view  

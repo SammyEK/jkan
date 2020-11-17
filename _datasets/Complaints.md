@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Complaints  
 title: Complaints  

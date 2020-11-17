@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::masterdata/data_orig.csv,schema::masterdata/data_orig.csv,schema:masterdata/data_orig.csv  
 title: masterdata/data_orig.csv  

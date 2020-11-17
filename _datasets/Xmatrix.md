@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Xmatrix  
 title: Xmatrix  

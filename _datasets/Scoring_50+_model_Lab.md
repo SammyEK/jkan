@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Scoring_50+_model_Lab  
 title: Scoring_50+_model_Lab  

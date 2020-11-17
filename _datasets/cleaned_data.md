@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: cleaned_data  
 title: cleaned_data  

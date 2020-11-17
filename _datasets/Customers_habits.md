@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits,Customers_habits  
 title: Customers_habits  

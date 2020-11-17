@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_infotable  
 title: Customer_infotable  

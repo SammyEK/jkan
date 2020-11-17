@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Effective Churn  
 title: Effective Churn  

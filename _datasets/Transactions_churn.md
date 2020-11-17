@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Transactions_churn  
 title: Transactions_churn  

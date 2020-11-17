@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts,Insurance_contracts  
 title: Insurance_contracts  

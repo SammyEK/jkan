@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Data_warehouse_customers  
 title: Data_warehouse_customers  

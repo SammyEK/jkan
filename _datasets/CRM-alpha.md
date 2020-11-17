@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: CRM-alpha  
 title: CRM-alpha  

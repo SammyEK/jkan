@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Contract_customers,Contract_customers,Contract_customers,Contract_customers,Contract_customers,Contract_customers,Contract_customers  
 title: Contract_customers  

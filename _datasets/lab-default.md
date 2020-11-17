@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::lab/default  
 title: lab/default  

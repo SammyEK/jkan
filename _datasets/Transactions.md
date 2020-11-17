@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Transactions  
 title: Transactions  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Potential new contracts  
 title: Potential new contracts  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Mailing-list  
 title: Mailing-list  

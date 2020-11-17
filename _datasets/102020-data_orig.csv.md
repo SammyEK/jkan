@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema:102020/data_orig.csv,schema::102020/data_orig.csv  
 title: 102020/data_orig.csv  

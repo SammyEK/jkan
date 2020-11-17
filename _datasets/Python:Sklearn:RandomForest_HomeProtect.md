@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Python:Sklearn:RandomForest_HomeProtect,Python:Sklearn:RandomForest_HomeProtect  
 title: Python:Sklearn:RandomForest_HomeProtect  

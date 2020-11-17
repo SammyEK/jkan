@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: churn_feature  
 title: churn_feature  

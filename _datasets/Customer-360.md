@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer-360,Customer-360,Customer-360,Customer-360  
 title: Customer-360  

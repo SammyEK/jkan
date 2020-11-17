@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Car_infos,Car_infos,Car_infos  
 title: Car_infos  

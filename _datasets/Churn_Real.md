@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Churn_Real  
 title: Churn_Real  

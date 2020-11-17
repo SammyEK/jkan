@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Broker_fees,Broker_fees,Broker_fees,Broker_fees,Broker_fees  
 title: Broker_fees  

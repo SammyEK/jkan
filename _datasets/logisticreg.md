@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: logisticreg  
 title: logisticreg  

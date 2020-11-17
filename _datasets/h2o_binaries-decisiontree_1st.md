@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::h2o_binaries/decisiontree_1st  
 title: h2o_binaries/decisiontree_1st  

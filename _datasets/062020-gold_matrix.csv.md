@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema:062020/gold_matrix.csv,schema::062020/gold_matrix.csv  
 title: 062020/gold_matrix.csv  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Required_contracts,Required_contracts,Required_contracts,Required_contracts,Required_contracts  
 title: Required_contracts  

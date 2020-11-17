@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_Interests  
 title: Customer_Interests  

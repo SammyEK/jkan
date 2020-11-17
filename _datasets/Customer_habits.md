@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_habits  
 title: Customer_habits  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_Collect  
 title: Customer_Collect  

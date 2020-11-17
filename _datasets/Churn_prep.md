@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Churn_prep  
 title: Churn_prep  

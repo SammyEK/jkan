@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_info_churn  
 title: Customer_info_churn  

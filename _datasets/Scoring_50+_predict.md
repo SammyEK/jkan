@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Scoring_50+_predict  
 title: Scoring_50+_predict  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: ERP  
 title: ERP  

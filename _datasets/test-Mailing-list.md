@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: test-Mailing-list  
 title: test-Mailing-list  

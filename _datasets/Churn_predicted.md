@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Churn_predicted,Churn_predicted  
 title: Churn_predicted  

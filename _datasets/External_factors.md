@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: External_factors  
 title: External_factors  

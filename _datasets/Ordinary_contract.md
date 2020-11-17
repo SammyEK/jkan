@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Ordinary_contract,Ordinary_contract,Ordinary_contract,Ordinary_contract,Ordinary_contract,Ordinary_contract,Ordinary_contract,Ordinary_contract,Ordinary_contract  
 title: Ordinary_contract  

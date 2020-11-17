@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View,Customer_View  
 title: Customer_View  

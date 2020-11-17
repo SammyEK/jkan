@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Python:Sklearn:LogitReg_HomeProtect  
 title: Python:Sklearn:LogitReg_HomeProtect  

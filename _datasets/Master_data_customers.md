@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Master_data_customers  
 title: Master_data_customers  

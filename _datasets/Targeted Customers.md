@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Targeted Customers,Targeted Customers,Targeted Customers,Targeted Customers  
 title: Targeted Customers  

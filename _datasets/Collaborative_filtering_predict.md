@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Collaborative_filtering_predict  
 title: Collaborative_filtering_predict  

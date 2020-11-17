@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Collaborative_filtering_Lab  
 title: Collaborative_filtering_Lab  

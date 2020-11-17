@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::072020/personal_info.csv  
 title: 072020/personal_info.csv  

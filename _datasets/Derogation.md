@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Derogation  
 title: Derogation  

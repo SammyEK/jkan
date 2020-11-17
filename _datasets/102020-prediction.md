@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::102020/prediction,schema::102020/prediction  
 title: 102020/prediction  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Sales Report  
 title: Sales Report  

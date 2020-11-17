@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Current_Customers,Current_Customers  
 title: Current_Customers  

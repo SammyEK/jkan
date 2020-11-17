@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::data/services1  
 title: data/services1  

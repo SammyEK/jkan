@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Young_Customers  
 title: Young_Customers  

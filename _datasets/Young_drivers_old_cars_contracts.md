@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Young_drivers_old_cars_contracts,Young_drivers_old_cars_contracts,Young_drivers_old_cars_contracts  
 title: Young_drivers_old_cars_contracts  

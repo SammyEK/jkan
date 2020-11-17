@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Data_warehouse_transactions  
 title: Data_warehouse_transactions  

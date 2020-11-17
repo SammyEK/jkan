@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema:AN_IDa94c49151db2b151ef7cbd5584b64e51a8cd0664fe16a87b479856847063ca27/in-mem-transformation  
 title: AN_IDa94c49151db2b151ef7cbd5584b64e51a8cd0664fe16a87b479856847063ca27/in-mem-transformation  

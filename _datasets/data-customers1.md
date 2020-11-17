@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::data/customers1  
 title: data/customers1  

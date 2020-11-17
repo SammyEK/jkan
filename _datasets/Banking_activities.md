@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities,Banking_activities  
 title: Banking_activities  

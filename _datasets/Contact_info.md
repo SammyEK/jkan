@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Contact_info,Contact_info,Contact_info,Contact_info,Contact_info,Contact_info,Contact_info,Contact_info  
 title: Contact_info  

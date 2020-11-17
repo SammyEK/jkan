@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer-360-contracts  
 title: Customer-360-contracts  

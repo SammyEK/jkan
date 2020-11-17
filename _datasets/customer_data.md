@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: customer_data  
 title: customer_data  

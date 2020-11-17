@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Scoring_25_49_model_Lab  
 title: Scoring_25_49_model_Lab  

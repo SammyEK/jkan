@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Scoring_12_24_model_Prod  
 title: Scoring_12_24_model_Prod  

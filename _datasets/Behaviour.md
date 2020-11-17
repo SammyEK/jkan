@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Behaviour  
 title: Behaviour  

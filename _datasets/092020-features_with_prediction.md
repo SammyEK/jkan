@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::092020/features_with_prediction  
 title: 092020/features_with_prediction  

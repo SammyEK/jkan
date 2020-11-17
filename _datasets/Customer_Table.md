@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table,Customer_Table  
 title: Customer_Table  

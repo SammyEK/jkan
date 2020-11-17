@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Bill_registry  
 title: Bill_registry  

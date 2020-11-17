@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Home Protect+ Contracts,Home Protect+ Contracts,Home Protect+ Contracts  
 title: Home Protect+ Contracts  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Mailing Client,Mailing Client,Mailing Client  
 title: Mailing Client  

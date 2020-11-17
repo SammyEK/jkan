@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::data/full_data_churn1  
 title: data/full_data_churn1  

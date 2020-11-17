@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema:   
 title: Consumption  

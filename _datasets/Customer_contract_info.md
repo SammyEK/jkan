@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_contract_info  
 title: Customer_contract_info  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake,SQL_Lake  
 title: SQL_Lake  

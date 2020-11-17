@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Scoring_12_24_predict  
 title: Scoring_12_24_predict  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: RandomForest:ChurnModel  
 title: RandomForest:ChurnModel  

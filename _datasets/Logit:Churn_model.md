@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Logit:Churn_model  
 title: Logit:Churn_model  

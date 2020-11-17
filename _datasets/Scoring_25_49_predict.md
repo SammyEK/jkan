@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Scoring_25_49_predict  
 title: Scoring_25_49_predict  

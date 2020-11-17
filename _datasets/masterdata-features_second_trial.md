@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::masterdata/features_second_trial  
 title: masterdata/features_second_trial  

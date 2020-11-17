@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: 072020/backtest_df,schema::072020/backtest_df  
 title: 072020/backtest_df  

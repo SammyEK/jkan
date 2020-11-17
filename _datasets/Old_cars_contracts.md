@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Old_cars_contracts  
 title: Old_cars_contracts  

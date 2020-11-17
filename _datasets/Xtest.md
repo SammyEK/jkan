@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Xtest  
 title: Xtest  

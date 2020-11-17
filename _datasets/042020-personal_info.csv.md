@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::042020/personal_info.csv  
 title: 042020/personal_info.csv  

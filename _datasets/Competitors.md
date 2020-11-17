@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Competitors,Competitors,Competitors,Competitors,Competitors,Competitors,Competitors,Competitors,Competitors  
 title: Competitors  

@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::092020/income_info.csv  
 title: 092020/income_info.csv  

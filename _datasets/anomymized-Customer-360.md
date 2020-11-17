@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: anomymized-Customer-360  
 title: anomymized-Customer-360  

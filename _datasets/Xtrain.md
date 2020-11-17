@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Xtrain  
 title: Xtrain  

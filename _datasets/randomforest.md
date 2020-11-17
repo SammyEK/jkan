@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: randomforest  
 title: randomforest  

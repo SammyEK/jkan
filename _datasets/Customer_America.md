@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America,Customer_America  
 title: Customer_America  
