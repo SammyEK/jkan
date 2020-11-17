@@ -2,10 +2,10 @@
 schema: CRM,CRM  
 title: CRM  
 organization: Sample Department  
-notes:   
+notes: Test  
 resources:  
 - name: CRM 
- url:abfs://system/CRM 
+ url: abfs://system/CRM 
  format:parquet  
 license: None  
 category:
