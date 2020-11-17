@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Contracts,Contracts,Contracts,Contracts  
+title: Contracts  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 5 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Contracts 
+    url: abfs://system/Contracts 
     format : parquet  
 license: None  
 category:

@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: churn_feature  
+title: churn_feature  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 5 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: churn_feature 
+    url: /Users/kensu/Customers/Kensu/churn_feature 
     format : parquet  
 license: None  
 category:

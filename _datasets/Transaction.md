@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Transaction  
+title: Transaction  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 1 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Transaction 
+    url: abfs://system/Transaction 
     format : parquet  
 license: None  
 category:

@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Derogation  
+title: Derogation  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 1 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Derogation 
+    url: abfs://system/Derogation 
     format : parquet  
 license: None  
 category:

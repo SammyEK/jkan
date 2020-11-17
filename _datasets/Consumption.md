@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema:   
+title: Consumption  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 0 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Consumption 
+    url: /Users/kensu/Customers/Kensu/Consumption 
     format : parquet  
 license: None  
 category:

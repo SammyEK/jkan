@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Sales Report  
+title: Sales Report  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 1 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Sales Report 
+    url: abfs://system/Sales Report 
     format : parquet  
 license: None  
 category:

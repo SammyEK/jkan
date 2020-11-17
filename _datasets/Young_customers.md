@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Young_Customers  
+title: Young_Customers  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 1 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Young_Customers 
+    url: abfs://system/Young_Customers 
     format : parquet  
 license: None  
 category:

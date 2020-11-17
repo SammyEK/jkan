@@ -2,14 +2,14 @@
 
 
 ---  
-schema: Customer_infotable  
-title: Customer_infotable  
+schema: schema::lab/credit  
+title: lab/credit  
 organization: Sample Department  
 notes: Used in 1 lineage(s)  
 resources:  
-  - name: Customer_infotable 
-    url: abfs://system/Customer_infotable 
-    format : parquet  
+  - name: lab/credit 
+    url: file:/Users/kensu/Customers/Kensu/LoanApproval/LAB/masterdata/lab/credit 
+    format : CSV  
 license: None  
 category:
   - Education  

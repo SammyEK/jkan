@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Master_data_customers  
+title: Master_data_customers  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 1 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Master_data_customers 
+    url: abfs://system/Master_data_customers 
     format : parquet  
 license: None  
 category:

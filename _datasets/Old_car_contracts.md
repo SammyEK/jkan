@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Old_car_contracts  
+title: Old_car_contracts  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 1 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Old_car_contracts 
+    url: abfs://system/Old_car_contracts 
     format : parquet  
 license: None  
 category:

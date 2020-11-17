@@ -2,14 +2,14 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Xtrain  
+title: Xtrain  
 organization: Sample Department  
 notes: Used in 3 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
-    format : parquet  
+  - name: Xtrain 
+    url: /Users/kensu/Customers/Kensu/Xtrain 
+    format : csv  
 license: None  
 category:
   - Education  

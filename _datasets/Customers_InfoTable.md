@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Customers_InfoTable  
+title: Customers_InfoTable  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 2 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Customers_InfoTable 
+    url: abfs://system/Customers_InfoTable 
     format : parquet  
 license: None  
 category:

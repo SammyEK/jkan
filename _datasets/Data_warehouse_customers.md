@@ -2,13 +2,13 @@
 
 
 ---  
-schema: Customer_infotable  
-title: Customer_infotable  
+schema: Data_warehouse_customers  
+title: Data_warehouse_customers  
 organization: Sample Department  
 notes: Used in 1 lineage(s)  
 resources:  
-  - name: Customer_infotable 
-    url: abfs://system/Customer_infotable 
+  - name: Data_warehouse_customers 
+    url: /Users/kensu/Customers/Kensu/Data_warehouse_customers 
     format : parquet  
 license: None  
 category:

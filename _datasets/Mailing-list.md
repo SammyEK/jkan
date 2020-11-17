@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Mailing-list  
+title: Mailing-list  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 2 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Mailing-list 
+    url: abfs://system/Mailing-list 
     format : parquet  
 license: None  
 category:

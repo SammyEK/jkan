@@ -2,14 +2,14 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Xmatrix  
+title: Xmatrix  
 organization: Sample Department  
 notes: Used in 3 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
-    format : parquet  
+  - name: Xmatrix 
+    url: /Users/kensu/Customers/Kensu/Xmatrix 
+    format : csv  
 license: None  
 category:
   - Education  

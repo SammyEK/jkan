@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Customer_habits  
+title: Customer_habits  
 organization: Sample Department  
 notes: Used in 3 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Customer_habits 
+    url: abfs://system/Customer_habits 
     format : parquet  
 license: None  
 category:

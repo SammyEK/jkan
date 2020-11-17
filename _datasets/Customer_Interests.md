@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Customer_Interests  
+title: Customer_Interests  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 2 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Customer_Interests 
+    url: abfs://system/Customer_Interests 
     format : parquet  
 license: None  
 category:

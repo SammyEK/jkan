@@ -2,14 +2,14 @@
 
 
 ---  
-schema: Customer_infotable  
-title: Customer_infotable  
+schema: schema::data/churn  
+title: data/churn  
 organization: Sample Department  
 notes: Used in 1 lineage(s)  
 resources:  
-  - name: Customer_infotable 
-    url: abfs://system/Customer_infotable 
-    format : parquet  
+  - name: data/churn 
+    url: file:/Users/kensu/Kensu_INC/Telecom_Churn_Example2.2.0/data/churn 
+    format : Parquet  
 license: None  
 category:
   - Education  

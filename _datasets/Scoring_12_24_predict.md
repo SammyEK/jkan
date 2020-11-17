@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Scoring_12_24_predict  
+title: Scoring_12_24_predict  
 organization: Sample Department  
-notes: Used in 3 lineage(s)  
+notes: Used in 0 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Scoring_12_24_predict 
+    url: abfs://system/Scoring_12_24_predict 
     format : parquet  
 license: None  
 category:

@@ -2,13 +2,13 @@
 
 
 ---  
-schema: CRM,CRM  
-title: CRM  
+schema: Customer-360-contracts  
+title: Customer-360-contracts  
 organization: Sample Department  
 notes: Used in 3 lineage(s)  
 resources:  
-  - name: CRM 
-    url: abfs://system/CRM 
+  - name: Customer-360-contracts 
+    url: abfs://system/Customer-360-contracts 
     format : parquet  
 license: None  
 category:
