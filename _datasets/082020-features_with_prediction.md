@@ -1,0 +1,18 @@
+
+
+
+---  
+schema: schema::082020/features_with_prediction  
+title: 082020/features_with_prediction  
+organization: Sample Department  
+notes:   
+resources:  
+- name: 082020/features_with_prediction 
+ url:file:/Users/kensu/Customers/Kensu/LoanApproval/PROD/masterdata/prod/082020/features_with_prediction 
+ format:Parquet  
+license: None  
+category:
+ - Education  
+maintainer: User  
+maintainer_email: UserMail  
+---

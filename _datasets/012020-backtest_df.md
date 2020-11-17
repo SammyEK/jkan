@@ -1,0 +1,15 @@
+---  
+schema: 012020/backtest_df,schema::012020/backtest_df  
+title: 012020/backtest_df  
+organization: Sample Department  
+notes:   
+resources:  
+- name: 012020/backtest_df 
+ url:file:/Users/kensu/Customers/Kensu/LoanApproval/PROD/masterdata/prod/012020/backtest_df 
+ format:Parquet  
+license: None  
+category:
+ - Education  
+maintainer: User  
+maintainer_email: UserMail  
+---
