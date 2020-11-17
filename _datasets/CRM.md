@@ -6,7 +6,7 @@ notes: Test
 resources:  
   - name: CRM 
     url: abfs://system/CRM 
-    format:parquet  
+    format: parquet  
 license: None  
 category:
   - Education  
