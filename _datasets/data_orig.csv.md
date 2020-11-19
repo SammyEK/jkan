@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: data_orig.csv  
 title: data_orig.csv  

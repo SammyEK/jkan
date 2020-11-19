@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: features_with_prediction  
 title: features_with_prediction  

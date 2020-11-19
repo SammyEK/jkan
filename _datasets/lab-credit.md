@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::lab/credit  
 title: lab/credit  

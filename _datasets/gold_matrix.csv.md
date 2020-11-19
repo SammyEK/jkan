@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: gold_matrix.csv  
 title: gold_matrix.csv  

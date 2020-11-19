@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::lab/incomes  
 title: lab/incomes  

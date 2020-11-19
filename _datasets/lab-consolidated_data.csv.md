@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::lab/consolidated_data.csv  
 title: lab/consolidated_data.csv  

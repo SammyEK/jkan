@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: income_info.csv  
 title: income_info.csv  

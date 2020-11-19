@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::lab/profile  
 title: lab/profile  

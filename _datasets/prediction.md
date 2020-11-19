@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: prediction  
 title: prediction  

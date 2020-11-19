@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: credit.csv  
 title: credit.csv  

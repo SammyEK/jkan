@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: schema::masterdata/gold_matrix.csv,schema:masterdata/gold_matrix.csv  
 title: masterdata/gold_matrix.csv  

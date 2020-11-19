@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: backtest_df  
 title: backtest_df  

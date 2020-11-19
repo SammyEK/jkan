@@ -1,6 +1,3 @@
-
-
-
 ---  
 schema: personal_info.csv  
 title: personal_info.csv  
