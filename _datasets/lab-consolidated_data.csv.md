@@ -1,7 +1,10 @@
+
+
+
 ---  
 schema: schema::lab/consolidated_data.csv  
 title: lab/consolidated_data.csv  
-organization: Sample Department  
+organization: Lab  
 notes: Used in 12 lineage(s)  
 resources:  
   - name: lab/consolidated_data.csv 
@@ -9,7 +12,7 @@ resources:
     format : CSV  
 license: None  
 category:
-  - Education  
+  - Loan Acceptance Product  
 maintainer: User  
 maintainer_email: UserMail  
 ---

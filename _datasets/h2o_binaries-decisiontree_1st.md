@@ -1,7 +1,10 @@
+
+
+
 ---  
 schema: schema::h2o_binaries/decisiontree_1st  
 title: h2o_binaries/decisiontree_1st  
-organization: Sample Department  
+organization: Lab  
 notes: Used in 1 lineage(s)  
 resources:  
   - name: h2o_binaries/decisiontree_1st 
@@ -9,7 +12,7 @@ resources:
     format : H2O Model: h2o binary H2ORandomForestEstimator  
 license: None  
 category:
-  - Education  
+  - Loan Acceptance Product  
 maintainer: User  
 maintainer_email: UserMail  
 ---

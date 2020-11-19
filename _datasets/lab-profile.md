@@ -1,7 +1,10 @@
+
+
+
 ---  
 schema: schema::lab/profile  
 title: lab/profile  
-organization: Sample Department  
+organization: Lab  
 notes: Used in 1 lineage(s)  
 resources:  
   - name: lab/profile 
@@ -9,7 +12,7 @@ resources:
     format : CSV  
 license: None  
 category:
-  - Education  
+  - Loan Acceptance Product  
 maintainer: User  
 maintainer_email: UserMail  
 ---

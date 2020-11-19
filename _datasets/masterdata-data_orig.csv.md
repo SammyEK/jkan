@@ -1,7 +1,10 @@
+
+
+
 ---  
 schema: schema::masterdata/data_orig.csv,schema::masterdata/data_orig.csv,schema:masterdata/data_orig.csv  
 title: masterdata/data_orig.csv  
-organization: Sample Department  
+organization: Lab  
 notes: Used in 2 lineage(s)  
 resources:  
   - name: masterdata/data_orig.csv 
@@ -9,7 +12,7 @@ resources:
     format : CSV  
 license: None  
 category:
-  - Education  
+  - Loan Acceptance Product  
 maintainer: User  
 maintainer_email: UserMail  
 ---
