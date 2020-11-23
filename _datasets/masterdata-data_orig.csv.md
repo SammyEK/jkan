@@ -1,5 +1,5 @@
 ---  
-schema: schema::masterdata/data_orig.csv,schema::masterdata/data_orig.csv,schema:masterdata/data_orig.csv  
+schema: Last_name, LoanAmount, Loan_ID, Credit_History, Loan_Amount_Term, Dependents, First_name, Property_Area, Loan_Status, Married, ApplicantIncome, Nationality, CoapplicantIncome, Education, Self_Employed, Gender  
 title: masterdata/data_orig.csv  
 organization: Lab  
 notes: Used in 2 lineage(s)  

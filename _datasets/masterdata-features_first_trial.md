@@ -1,5 +1,5 @@
 ---  
-schema: schema::masterdata/features_first_trial,schema::masterdata/features_first_trial  
+schema: LoanAmount, Education_Not_Graduate, Credit_History, ApplicantIncome, Gender_unknown, Loan_Status_Y, Self_Employed_Yes, Dependents_3+, Married_Yes, Gender_Male, Property_Area_Semiurban, Dependents_1, Property_Area_Urban, Loan_Amount_Term, CoapplicantIncome, Dependents_2  
 title: masterdata/features_first_trial  
 organization: Lab  
 notes: Used in 3 lineage(s)  

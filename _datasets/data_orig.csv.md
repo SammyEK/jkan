@@ -1,5 +1,5 @@
 ---  
-schema: data_orig.csv  
+schema: Last_name, Loan_ID, Married, Nationality, Dependents, First_name, Property_Area, Education, Gender, LoanAmount, Credit_History, Loan_Amount_Term, ApplicantIncome, CoapplicantIncome, Self_Employed  
 title: data_orig.csv  
 organization: Production  
 notes: Used in 24 lineage(s)  

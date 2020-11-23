@@ -1,5 +1,5 @@
 ---  
-schema: schema::lab/profile  
+schema: Last_name, Loan_ID, Married, Nationality, Dependents, First_name, Property_Area, Education, Gender  
 title: lab/profile  
 organization: Lab  
 notes: Used in 1 lineage(s)  

@@ -1,5 +1,5 @@
 ---  
-schema: h2o_binaries/randomforest_3rd  
+schema: data  
 title: h2o_binaries/randomforest_3rd  
 organization: Lab  
 notes: Used in 25 lineage(s)  

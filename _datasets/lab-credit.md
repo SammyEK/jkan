@@ -1,5 +1,5 @@
 ---  
-schema: schema::lab/credit  
+schema: Loan_ID, LoanAmount, Loan_Amount_Term, Credit_History  
 title: lab/credit  
 organization: Lab  
 notes: Used in 1 lineage(s)  

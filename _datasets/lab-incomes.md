@@ -1,5 +1,5 @@
 ---  
-schema: schema::lab/incomes  
+schema: Loan_ID, Self_Employed, ApplicantIncome, CoapplicantIncome  
 title: lab/incomes  
 organization: Lab  
 notes: Used in 1 lineage(s)  
