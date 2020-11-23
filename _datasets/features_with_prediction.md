@@ -1,5 +1,5 @@
 ---  
-schema: Last_name, Loan_ID, Married, Nationality, Dependents, First_name, Property_Area, Education, Gender, LoanAmount, Credit_History, Loan_Amount_Term, ApplicantIncome, CoapplicantIncome, Self_Employed, Married_Yes, Education_Not Graduate, Self_Employed_Yes, Dependents_3+, Property_Area_Semiurban, Dependents_1, Property_Area_Urban, Dependents_2, predict, Education_Not_Graduate, p0, p1  
+schema: Last_name Loan_ID Married Nationality Dependents First_name Property_Area Education Gender LoanAmount Credit_History Loan_Amount_Term ApplicantIncome CoapplicantIncome Self_Employed Married_Yes Education_Not Graduate Self_Employed_Yes Dependents_3+ Property_Area_Semiurban Dependents_1 Property_Area_Urban Dependents_2 predict Education_Not_Graduate p0 p1  
 title: features_with_prediction  
 organization: Production  
 notes: Used in 24 lineage(s)  

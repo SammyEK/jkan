@@ -1,5 +1,5 @@
 ---  
-schema: Last_name, Loan_ID, Married, Nationality, Dependents, First_name, Property_Area, Education, Gender  
+schema: Last_name Loan_ID Married Nationality Dependents First_name Property_Area Education Gender  
 title: personal_info.csv  
 organization: Production  
 notes: Used in 12 lineage(s)  

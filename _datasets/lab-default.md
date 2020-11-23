@@ -1,5 +1,5 @@
 ---  
-schema: Loan_ID, Loan_Status  
+schema: Loan_ID Loan_Status  
 title: lab/default  
 organization: Lab  
 notes: Used in 1 lineage(s)  
