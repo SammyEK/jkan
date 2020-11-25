@@ -1,5 +1,5 @@
 ---  
-schema: default
+schema: chicago
 title: backtest_df  
 organization: Production  
 notes: Used in 24 lineage(s)    
