@@ -14,7 +14,6 @@ dataset_fields:
     datajson: description
   - field_name: license
     label: Schema fields
-    form_template: form/license.html
     datajson: license
   - field_name: category
     label: Category
