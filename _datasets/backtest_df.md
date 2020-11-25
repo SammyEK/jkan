@@ -40,8 +40,7 @@ resources:
   - name: 012020/backtest_df 
     url: file:/Users/kensu/Customers/Kensu/LoanApproval/PROD/masterdata/prod/012020/backtest_df 
     format : Parquet  
-license: 
-angry: yolo  
+schema_fields: yolo  
 category:
   - Loan Acceptance Product  
 maintainer: User  
